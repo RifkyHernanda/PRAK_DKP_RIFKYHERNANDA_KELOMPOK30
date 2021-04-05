@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Modul4Python_Kel30", "Modul4Python_Kel30\Modul4Python_Kel30.pyproj", "{C9AA1A15-875D-4193-96F4-BC815B304626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9AA1A15-875D-4193-96F4-BC815B304626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AA1A15-875D-4193-96F4-BC815B304626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F00F9E-91C8-4D30-AB81-7D69A8C845C5}
+	EndGlobalSection
+EndGlobal
